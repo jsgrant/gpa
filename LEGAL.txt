@@ -1,0 +1,4 @@
+This repo is a collection of package definitions I've written for 
+various distros; namely: Fedora, NixOS & Arch / the AUR. Said package 
+definitions are under the MIT License -- but not necessarily the software 
+being packaged. Please check accordingly and abide by all terms, upstream.
